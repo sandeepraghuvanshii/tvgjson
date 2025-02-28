@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="-",Sports 18 - 1 HD
-http://filex.tv:8080/aftab123/004090/52077
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="VOOT",Sports18_1_HD
 http://103.115.126.26:8000/play/a07b/index.m3u8
 #EXTINF:-1 group-title="-",Sports 18 2
 http://103.115.126.26:8000/play/a07t/index.m3u8
