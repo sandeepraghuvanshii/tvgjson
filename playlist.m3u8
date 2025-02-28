@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",tvg-logo="https://sandeepraghuvanshii.github.io/tvgjson/hotstar.png",Hotstar Live
-https://cdnt20.t20hd.cfd/live/m3-720p.m3u8
 #EXTINF:-1 group-title="-",Sports 18 - 1 HD
 http://filex.tv:8080/aftab123/004090/52077
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="VOOT",Sports18_1_HD
