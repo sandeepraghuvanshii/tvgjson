@@ -202,7 +202,7 @@ http://103.115.126.26:8000/play/a083/index.m3u8
 #EXTINF:-1 group-title="-",Star Sports 1 Tamil HD
 http://103.115.126.26:8000/play/a037/index.m3u8
 #EXTINF:-1 group-title="-",Star Sports 1 Telugu HD
-https://cdnt20.t20hd.cfd/live/m3-720p.m3u8
+http://103.115.126.26:8000/play/a02n/index.m3u8
 #EXTINF:-1 group-title="-",Star Sports 2 HD
 http://103.115.126.26:8000/play/a039/index.m3u8
 #EXTINF:-1 group-title="-",Star Sports 3
