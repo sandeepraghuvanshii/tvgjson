@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="-",Sports 18 - 1 HD
 http://103.115.126.26:8000/play/a07b/index.m3u8
-#EXTINF:-1 group-title="-",Sports 18 - 1 HD
+#EXTINF:-1 group-title="-" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png",Sports 18 - 1 HD server 1
 https://amit-1.allinonereborn.in/jiotest/app/stream.php?ck=5f5f68646e65615f5f3d73743d313734303736373031387e6578703d313734303737303631387e61636c3d2f62706b2d74762f53706f72747331385f315f48445f4d4f422f46616c6c6261636b2f2a7e686d61633d62343535376335313332643839393539653262323330306436313962636336373164383239616363333739386236346632383863623032316364646163616364&cid=1984&id=Sports18_1_HD_MOB-audio_98838_hin=98800-video=2293600.m3u8
 #EXTINF:-1 group-title="-",Sports 18 2
 http://103.115.126.26:8000/play/a07t/index.m3u8
