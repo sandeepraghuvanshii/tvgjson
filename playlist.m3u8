@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="-",tvg-logo="https://sandeepraghuvanshii.github.io/tvgjson/hotstar.png",Hotstar Live
+https://cdnt20.t20hd.cfd/live/m3-720p.m3u8
 #EXTINF:-1 group-title="-",&Prive HD
 http://103.115.126.26:8000/play/a056/index.m3u8
 #EXTINF:-1 group-title="-",&flix HD
