@@ -65,7 +65,7 @@ http://103.115.126.26:8000/play/a05s/index.m3u8
 http://103.115.126.26:8000/play/a080/index.m3u8
 #EXTINF:-1 group-title="-", STAR Plus HD
 http://103.115.126.26:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="-", Sony Sab HD
+#EXTINF:-1 group-title="-",SONY SAB HD
 http://103.115.126.26:8000/play/a068/index.m3u8
 #EXTINF:-1 group-title="-",Star Bharat HD
 http://103.115.126.26:8000/play/a02o/index.m3u8
