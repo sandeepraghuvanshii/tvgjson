@@ -74,13 +74,17 @@ http://103.115.126.26:8000/play/a08w/index.m3u8
 #EXTINF:-1 group-title="-",Star Gold Select HD
 http://103.115.126.26:8000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="-",Star Sports 1 HD
-http://103.115.126.26:8000/play/a03l/index.m3u8
+https://opplex-pstlive.vercel.app/opplex.m3u8?token=3joz6wml&id=167575
 #EXTINF:-1 group-title="-",Star Sports 1 Hindi HD
 http://103.115.126.26:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports 1 Hindi
+https://opplex-pstlive.vercel.app/opplex.m3u8?token=3joz6wml&id=167573
 #EXTINF:-1 group-title="-",Star Sports 2 HD
-http://103.115.126.26:8000/play/a039/index.m3u8
+https://opplex-pstlive.vercel.app/opplex.m3u8?token=3joz6wml&id=167576
 #EXTINF:-1 group-title="-",Star Sports 3
 http://103.115.126.26:8000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports 3 HD
+https://opplex-pstlive.vercel.app/opplex.m3u8?token=3joz6wml&id=167577
 #EXTINF:-1 group-title="-",Star Sports First
 http://103.115.126.26:8000/play/a08f/index.m3u8
 #EXTINF:-1 group-title="-",Star Sports Select 1 HD
@@ -88,7 +92,7 @@ http://103.115.126.26:8000/play/a042/index.m3u8
 #EXTINF:-1 group-title="-",Star Sports Select 2 HD
 http://103.115.126.26:8000/play/a043/index.m3u8
 #EXTINF:-1 group-title="-", Zee Cinema HD
-http://filex.tv:8080/aftab123/004090/37
+https://opplex-pstlive.vercel.app/opplex.m3u8?token=3joz6wml&id=206307
 #EXTINF:-1 group-title="-",Zee News
 https://exec-meal-checked-adjusted.trycloudflare.com/jiotv5443/app/live.php?id=504
 #EXTINF:-1 group-title="-",Zee TV HD 
