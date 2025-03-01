@@ -34,35 +34,15 @@ http://103.115.126.26:8000/play/a089/index.m3u8
 #EXTINF:-1 group-title="-",Colors Cineplex HD
 http://103.115.126.26:8000/play/a03v/index.m3u8
 #EXTINF:-1 group-title="-", Colors HD
-http://103.115.126.26:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="-",Colors Super
-http://103.115.126.26:8000/play/a06f/index.m3u8
-#EXTINF:-1 group-title="-",Discovery HD World
-http://103.115.126.26:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="-",History TV18 HD
-http://103.115.126.26:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="-",INDIA TODAY
-http://103.115.126.26:8000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="-",MN+ HD 
-http://103.115.126.26:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="-",MNX HD
-http://103.115.126.26:8000/play/a04w/index.m3u8
+https://exec-meal-checked-adjusted.trycloudflare.com/jiotv5443/app/live.php?id=144
 #EXTINF:-1 group-title="-",MTV Beats HD 
-http://103.115.126.26:8000/play/a05u/index.m3u8
+https://exec-meal-checked-adjusted.trycloudflare.com/jiotv5443/app/live.php?id=753
 #EXTINF:-1 group-title="-",MTV HD
 http://103.115.126.26:8000/play/a05n/index.m3u8
 #EXTINF:-1 group-title="-",Movies Now HD
 http://103.115.126.26:8000/play/a04z/index.m3u8
-#EXTINF:-1 group-title="-",NATIONAL GEOGRAPHIC HD
-http://103.115.126.26:8000/play/a054/index.m3u8
-#EXTINF:-1 group-title="-",NDTV India
-http://103.115.126.26:8000/play/a08l/index.m3u8
-#EXTINF:-1 group-title="-",Nat Geo Wild HD
-http://103.115.126.26:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title="-",News 18 Lokmat
-http://103.115.126.26:8000/play/a08n/index.m3u8
 #EXTINF:-1 group-title="-", SET HD
-http://103.115.126.26:8000/play/a03j/index.m3u8
+https://exec-meal-checked-adjusted.trycloudflare.com/jiotv5443/app/live.php?id=291
 #EXTINF:-1 group-title="-",SONY BBC EARTH HD
 http://103.115.126.26:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="-",SONY MAX HD
