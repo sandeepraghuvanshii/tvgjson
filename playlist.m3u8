@@ -42,11 +42,11 @@ http://103.115.126.26:8000/play/a05n/index.m3u8
 #EXTINF:-1 group-title="-",Movies Now HD
 http://103.115.126.26:8000/play/a04z/index.m3u8
 #EXTINF:-1 group-title="-", SET HD
-https://exec-meal-checked-adjusted.trycloudflare.com/jiotv5443/app/live.php?id=291
+https://amit-1.allinonereborn.in/jiotest/app/ts_live_291.m3u8
 #EXTINF:-1 group-title="-",SONY BBC EARTH HD
 http://103.115.126.26:8000/play/a04n/index.m3u8
 #EXTINF:-1 group-title="-",SONY MAX HD
-https://exec-meal-checked-adjusted.trycloudflare.com/jiotv5443/app/live.php?id=476
+https://amit-1.allinonereborn.in/jiotest/app/ts_live_476.m3u8
 #EXTINF:-1 group-title="-",SONY PIX HD
 http://103.115.126.26:8000/play/a05q/index.m3u8
 #EXTINF:-1 group-title="-",SONY YAY
