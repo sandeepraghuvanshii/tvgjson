@@ -38,7 +38,7 @@ https://exec-meal-checked-adjusted.trycloudflare.com/jiotv5443/app/live.php?id=1
 #EXTINF:-1 group-title="-",MTV Beats HD 
 https://exec-meal-checked-adjusted.trycloudflare.com/jiotv5443/app/live.php?id=753
 #EXTINF:-1 group-title="-",MTV HD
-http://103.115.126.26:8000/play/a05n/index.m3u8
+https://exec-meal-checked-adjusted.trycloudflare.com/jiotv5443/app/live.php?id=1145
 #EXTINF:-1 group-title="-",Movies Now HD
 http://103.115.126.26:8000/play/a04z/index.m3u8
 #EXTINF:-1 group-title="-", SET HD
@@ -88,7 +88,7 @@ http://103.115.126.26:8000/play/a042/index.m3u8
 #EXTINF:-1 group-title="-",Star Sports Select 2 HD
 http://103.115.126.26:8000/play/a043/index.m3u8
 #EXTINF:-1 group-title="-", Zee Cinema HD
-https://exec-meal-checked-adjusted.trycloudflare.com/jiotv5443/app/live.php?id=165
+http://filex.tv:8080/aftab123/004090/37
 #EXTINF:-1 group-title="-",Zee News
 https://exec-meal-checked-adjusted.trycloudflare.com/jiotv5443/app/live.php?id=504
 #EXTINF:-1 group-title="-",Zee TV HD 
