@@ -9,6 +9,8 @@ https://amit-1.allinonereborn.in/jiotest/app/ts_live_1985.m3u8
 https://amit-1.allinonereborn.in/jiotest/app/ts_live_2852.m3u8
 #EXTINF:-1 group-title="-",Sports 18 3
 https://amit-1.allinonereborn.in/jiotest/app/ts_live_2853.m3u8
+#EXTINF:-1 group-title="-",Star Sports 1 Hindi HD
+http://m1-max.dns-speedy.com/live/529C1C/7446D7/63541.ts
 #EXTINF:-1 group-title="-",&Prive HD
 http://103.115.126.26:8000/play/a056/index.m3u8
 #EXTINF:-1 group-title="-",&flix HD
@@ -75,8 +77,6 @@ http://103.115.126.26:8000/play/a08w/index.m3u8
 http://103.115.126.26:8000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="-",Star Sports 1 HD
 https://opplex-pstlive.vercel.app/opplex.m3u8?token=3joz6wml&id=167575
-#EXTINF:-1 group-title="-",Star Sports 1 Hindi HD
-http://m1-max.dns-speedy.com/live/529C1C/7446D7/63541.ts
 #EXTINF:-1 group-title="-",Star Sports 1 Hindi
 https://opplex-pstlive.vercel.app/opplex.m3u8?token=3joz6wml&id=167573
 #EXTINF:-1 group-title="-",Star Sports 2 HD
